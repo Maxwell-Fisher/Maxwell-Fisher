@@ -5,4 +5,4 @@
 ##### ᵂʰᵃᵗ
 ###
 #### Oh, here, have a graph thing:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Fisher&layout=donut&theme=panda&count_private=true&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Fisher&layout=donut&theme=panda&count_private=true&langs_count=16)](https://www.maxwellcrafter.com)
