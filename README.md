@@ -1,5 +1,5 @@
 ## Hi, I'm Max
-### And I write software software stuff
+### And I write software stuff
 #### Mostly Batch
 ##### Uhhh what else do I write here
 ##### ᵂʰᵃᵗ
